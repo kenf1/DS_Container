@@ -1,0 +1,3 @@
+#os, sys, subprocess come included with python
+pandas
+ydata_profiling #https://pypi.org/project/pandas-profiling/
