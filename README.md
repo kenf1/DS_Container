@@ -1,3 +1,3 @@
 Create & deploy Data Science (R + Python) Docker container.
 
-Use `requirements.R` to install all required R packages, `requirements.txt` for Python packages.
+Packages listed in `requirements.R` (R) and `requirements.txt` (Python) will be automatically installed.

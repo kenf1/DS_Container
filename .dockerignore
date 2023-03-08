@@ -1,3 +1,5 @@
+#by default, only files inside 'src' folder will be included in container
 README.md
 .git*
-.devcontainer
+.devcontainer/*
+.github/*

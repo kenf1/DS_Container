@@ -1,3 +1,4 @@
-#os, sys, subprocess come included with python
 pandas
+numpy
+seaborn
 ydata_profiling #https://pypi.org/project/pandas-profiling/

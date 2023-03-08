@@ -23,7 +23,8 @@
 		"vscode": {
 			"extensions": [
 				"reditorsupport.r",
-				"ms-python.python"
+				"ms-python.python",
+				"quarto.quarto"
 			]
 		}
 	}
